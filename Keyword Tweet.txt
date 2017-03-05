@@ -1,0 +1,1 @@
+('Ahok','Djarot','Agus Yudhoyono','Sylviana murni','Sandiaga Uno','Anies Baswedan','PilkadaDKI2017')

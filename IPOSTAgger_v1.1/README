@@ -1,0 +1,39 @@
+CARA PENGGUNAAN SEDERHANA - WINDOWS/LINUX :
+==================================================
+
+dari panel command prompt/SHELL di komputer :
+
+------------------------
+untuk melakukan training
+------------------------
+> java ipostagger train
+
+
+-----------------------
+untuk melakukan tagging
+-----------------------
+> java ipostagger [namafile corpus-nya] 1 1 0 1 > hasiltag.hsl
+
+contoh : > java ipostagger samplecorpus.tag 1 1 0 1 > hasiltag.hsl
+
+java ipostagger results.tag 1 1 0 1 > hasiltag_results.hsl
+
+
+hasil tagging akan disimpan di file hasiltag.hsl -> silakan dibuka file ini
+
+
+catatan :
+1 1 0 1 merupakan konfigurasi yang paling baik berdasarkan hasil riset. Jika
+Anda hanya fokus untuk menggunakan IPOSTAGGER, tidak perlu mengubah konfigurasi ini.
+
+
+
+INPUT - OUTPUT
+============================
+1. Input berupa FILE TEXT, SATU BARIS untuk SATU KALIMAT (setiap kalimat baru diberi karakter ENTER)
+2. Output berupa Standard Output JAVA, bisa di-stream ke layar atau file (lewat pipe >)
+
+
+--
+Alfan Farizki W.
+

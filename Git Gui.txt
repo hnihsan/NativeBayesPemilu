@@ -1,0 +1,8 @@
+nih langkah2langkahnya
+
+git pull origin master
+git add  *
+git commit -m "keterangan perubahan"
+git push origin master
+
+masukin username github u trus sma password
