@@ -8,15 +8,16 @@
                 <h4 class="title"></h4>
             </div>
             <div class="content">
-                <form method="POST" action="{{ action('KlasifikasiController@klasifikasi') }}">
-                    {!! csrf_field() !!}
+                <form method="POST" action="{{ action('KlasifikasiController@klasifikasi') }}"> 
+                    {{ csrf_field() }}
+										<input type="hidden"
                     <div class="row" id="input-date">
                     <div class="col-md-12">
                             <div class="input-group">
                             <label>Tanggal Tweet</label>
                             </div>
                             </div>
-                    
+
                         <div class="col-md-12">
                             <div class="input-group date">
                                     <span class="input-group-addon"><i class="fa fa-calendar"></i></span>

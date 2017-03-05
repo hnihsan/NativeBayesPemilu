@@ -11,7 +11,7 @@ namespace App\Http\Controllers\lib;
 interface IDataSource {
     public function getNextDocument();
     public function getAllDocuments();
-    public function open();
+    public function open(); 
     public function close();
 }
 

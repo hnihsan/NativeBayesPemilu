@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\lib\NBC;
 use App\Http\Controllers\lib\FileDataSource;
-use App\Http\Controllers\preprocessing\Preprocessing;  
+use App\Http\Controllers\preprocessing\Preprocessing;
 use Storage;
 use DB;
 use Session;
@@ -22,9 +22,9 @@ class KlasifikasiController extends Controller
     {
     	$post = $request->all();
     	$nbc = new NBC();
-    	$nbc->train(new FileDataSource(storage_path('app\public\positif.txt')), 'positif');
-		$nbc->train(new FileDataSource(storage_path('app\public\negatif.txt')), 'negatif');
-		$nbc->train(new FileDataSource(storage_path('app\public\netral.txt')), 'netral');
+    	$nbc->train(new FileDataSource(storage_path('app/public/positif.txt')), 'positif');
+		$nbc->train(new FileDataSource(storage_path('app/public/negatif.txt')), 'negatif');
+		$nbc->train(new FileDataSource(storage_path('app/public/netral.txt')), 'netral');
 
 		$start_time_tweet = date('Y-m-d H:i:s',strtotime($post['date'].' '.$post['start_time_tweet']));
 		$end_time_tweet = date('Y-m-d H:i:s',strtotime($post['date'].' '.$post['end_time_tweet']));
@@ -74,7 +74,7 @@ class KlasifikasiController extends Controller
     {
 		$post = $request->all();
     	$p = new Preprocessing();
-		
+
     	db::table('tweet_preprocessing')->delete();
     	// $terms = $p->preprocesing($post['date_tweet'],$post['start_time_tweet'],$post['end_time_tweet']);
     	$terms = $p->preprocesing(date('Y-m-d',strtotime($post['date'])),$post['start_time_tweet'],$post['end_time_tweet']);
@@ -91,7 +91,7 @@ class KlasifikasiController extends Controller
 		{
 
 			Session::flash('message','<div class="alert alert-success">
-                                    Berhasil preprocessing 
+                                    Berhasil preprocessing
                                 </div>');
     		return redirect('tweet/preprocessing');
 		}

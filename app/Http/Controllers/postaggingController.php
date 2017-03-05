@@ -5,11 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
-use DB;
+use Storage;
 
 class postaggingController extends Controller
 {
     public function index(){
-    	return view('contents.postagging')->with('postags',DB::table('tb_postagger')->orderBy('id','ASC')->paginate(10));
+      $postagging = Storage::get('public/pos_tagger_result.txt');
+      $result = explode("\n", $postagging);
+      array_shift($result);
+    	return view('contents.postagging')->with('results',$result);
     }
 }
