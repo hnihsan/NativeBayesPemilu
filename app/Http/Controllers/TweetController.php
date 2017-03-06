@@ -53,8 +53,11 @@ class TweetController extends Controller
                     if($check_tweet == 0)
                     {
 
-                        if($this->removeWord($tweet->text) != ''){   
+                        if($this->removeWord($tweet->text) != ''){    
                           DB::table('tweets')->insert(['id_tweet' => $tweet->id_str,'username' => $tweet->user->screen_name,'tweet' => $this->removeWord($tweet->text),'date_tweet' => date('Y-m-d H:i:s',strtotime($tweet->created_at))]);
+
+                          $netral = Storage::get('public/testingjava.txt');
+                          Storage::put('public/testingjava.txt',$netral." .\n".$this->removeWord($tweet->text));
                         }
                     }
                 }
