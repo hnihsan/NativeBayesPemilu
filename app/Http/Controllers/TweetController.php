@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use DB;
 use Session;
-use Abraham\TwitterOAuth\TwitterOAuth; 
+use Abraham\TwitterOAuth\TwitterOAuth;
 use Storage;
 use Validator;
 
@@ -19,11 +19,11 @@ class TweetController extends Controller
 		ini_set('max_execution_time', 10000);
 	}
     public function index()
-    {	
+    {
     	 return view('contents.daftar_tweet')->with('tweets',DB::table('tweets')->orderBy('date_tweet','DESC')->paginate(10))->with('tweets_training',$this->checkTweetTraining());
     }
     public function preprocessing()
-    {   
+    {
         return view('contents.daftar_preprocessing')->with('tweets',DB::table('tweet_preprocessing')->paginate(10));
     }
     public function unduh(Request $request)
@@ -47,17 +47,14 @@ class TweetController extends Controller
             $tweets = $twitter->get("search/tweets", ["q" => $value_keyword,"count"=>100,"result_type"=>"recent"]);
             if(!empty($tweets->statuses))
             {
+
                 foreach ($tweets->statuses as $tweet)
                 {
                     $check_tweet = DB::table('tweets')->where('id_tweet' , $tweet->id_str)->count();
                     if($check_tweet == 0)
                     {
-
-                        if($this->removeWord($tweet->text) != ''){    
+                        if($this->removeWord($tweet->text) != ''){
                           DB::table('tweets')->insert(['id_tweet' => $tweet->id_str,'username' => $tweet->user->screen_name,'tweet' => $this->removeWord($tweet->text),'date_tweet' => date('Y-m-d H:i:s',strtotime($tweet->created_at))]);
-
-                          $netral = Storage::get('public/testingjava.txt');
-                          Storage::put('public/testingjava.txt',$netral." .\n".$this->removeWord($tweet->text));
                         }
                     }
                 }
@@ -78,7 +75,7 @@ class TweetController extends Controller
        $negatif = Storage::get('public/negatif.txt');
        $tweets_negatif = explode("\n", $negatif);
        array_shift($tweets_negatif);
-       
+
        $positif = Storage::get('public/positif.txt');
        $tweets_positif = explode("\n", $positif);
        array_shift($tweets_positif);
@@ -223,5 +220,3 @@ class TweetController extends Controller
        // echo $this->removeWord();
     }
 }
-
-

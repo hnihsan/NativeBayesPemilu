@@ -20,16 +20,27 @@ class Preprocessing extends Stemmer
 
     	$tweets = DB::table('tweets')
                     ->where('date_tweet','like',$date.'%')->get();
- 		foreach ($tweets as $tweet) {
+		$fl=1;
+		//**************************NARO KE TXT****************************
+		/*Storage::put('public/postagjava/bahan.txt',""); */
+		//**************************NARO KE TXT****************************
+		foreach ($tweets as $tweet) {
             if(strtotime($tweet->date_tweet) >= strtotime($date.$start_time_tweet) && strtotime($tweet->date_tweet) <= strtotime($date.$end_time_tweet))
             {
+							//**************************NARO KE TXT****************************
+							/*if($fl<30){
+								$netral = Storage::get('public/postagjava/bahan.txt');
+								Storage::put('public/postagjava/bahan.txt',$netral." .\n".$tweet->tweet);
+								$fl++;
+							}*/
+							//**************************NARO KE TXT****************************
      			foreach ($this->tokenizing($tweet->tweet) as $term)
-     			{ 
+     			{
                     $filtering = $this->filtering($term);
                     if($filtering)
                     {
                         if($this->stopword($filtering))
-                        { 
+                        {
                             //fungsi nazief untuk stemming
                             // $data_term = $this->NAZIEF($filtering);
                             $data_term = $filtering;
@@ -54,7 +65,11 @@ class Preprocessing extends Stemmer
  		}
         Storage::put('public/pos_tagger_result.txt',$pos_tagger_result);
         // arsort($terms);
-        return $terms;
+				//**************************Jalanin File Java****************************
+				//exec("java ipostagger ".storage_path('app/public/postagjava/')."bahan.txt 1 1 0 1 > hasil.txt");
+				//**************************Jalanin File Java****************************
+				return $terms;
+
     }
     public function filtering($term)
     {
