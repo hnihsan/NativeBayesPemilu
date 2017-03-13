@@ -20,19 +20,16 @@ class Preprocessing extends Stemmer
 
     	$tweets = DB::table('tweets')
                     ->where('date_tweet','like',$date.'%')->get();
-		$fl=1;
-		//**************************NARO KE TXT****************************
-		/*Storage::put('public/postagjava/bahan.txt',""); */
-		//**************************NARO KE TXT****************************
+
 		foreach ($tweets as $tweet) {
             if(strtotime($tweet->date_tweet) >= strtotime($date.$start_time_tweet) && strtotime($tweet->date_tweet) <= strtotime($date.$end_time_tweet))
             {
 							//**************************NARO KE TXT****************************
-							/*if($fl<30){
-								$netral = Storage::get('public/postagjava/bahan.txt');
-								Storage::put('public/postagjava/bahan.txt',$netral." .\n".$tweet->tweet);
-								$fl++;
-							}*/
+
+								$source = Storage::get('public/bahan.txt');
+								Storage::put('public/bahan.txt',.$tweet->tweet" .\n".$source);
+
+
 							//**************************NARO KE TXT****************************
      			foreach ($this->tokenizing($tweet->tweet) as $term)
      			{
@@ -66,7 +63,7 @@ class Preprocessing extends Stemmer
         Storage::put('public/pos_tagger_result.txt',$pos_tagger_result);
         // arsort($terms);
 				//**************************Jalanin File Java****************************
-				//exec("java ipostagger ".storage_path('app/public/postagjava/')."bahan.txt 1 1 0 1 > hasil.txt");
+				exec("cd ipostagger/ ; java ipostagger ".storage_path('app/public/')."bahan.txt 1 1 0 1 > ".storage_path('app/public/')."pos_tagger_result2.txt");
 				//**************************Jalanin File Java****************************
 				return $terms;
 

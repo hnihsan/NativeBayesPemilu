@@ -1,0 +1,93 @@
+Ini/DT Sikap/NN Relawan/NNP Anies-Sandi/NNP Soal/NN Jenazah/NN Tak/NEG Disalati/NN #PilkadaDki2017/NN ./. 
+Djan/NN Faridz/NNP Pilih/NNP Pecat/NNP Haji/NNP Lulung/NNP demi/IN Ahok/NN #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Gerasi/NN Agus-Sylvi/NN Alihkan/NN Dukungan/NN kepada/IN Ahok-Djarot/NN #PilkadaDki2017/NN ./.
+Dipecat/NN dari/IN PPP,/NN Lulung/NNP Mengaku/VBI Punya/VBT Banyak/JJ Pendukung/NN #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Perusahaan/NN Air/FW Sandi,/NNP LBH/NNP Jakarta:/NNP Pemprov/NNP DKI/NNP Rugi/NNP 18.2/CDP Triliun/CDP #AniesAntiPancasila/SC https://t.co/p1I4Rvh6aV/NN ./.
+Banjir/NN Dukungan,/NN Sandiaga/NN Uno:/NN Lima/CDP Minggu/NN Lagi/RB Kita/PRP Punya/VBT Pemimpin/NN Baru/JJ ./.
+Banjir/NN Dukungan,/NN Sandiaga/NN Uno:/NN Lima/CDP Minggu/NN Lagi/RB Kita/PRP Punya/VBT Pemimpin/NN Baru/JJ ./.
+Perusahaan/NN Air/FW Sandi,/NNP LBH/NNP Jakarta:/NNP Pemprov/NNP DKI/NNP Rugi/NNP 18.2/CDP Triliun/CDP #AniesAntiPancasila/SC https???/NN ./.
+Congrats/FW Anies/FW Baswedan/NNP -/- Sandiaga/NNP Uno./NNP Kemunduran/NNP negara/NN sudah/MD mulai/VBI tahun/NN ini./. See/NN you/NN next/NN 32/CDP years./. ./.
+ane/NN udh/NNP bangun,/, sebentar/NN lg/NN sandiaga/NN uno/NN dipanggil/NN KPK.../NNP wkwkwk/NN aseeekkk/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Insha/NN Allah,/NN minggu/NN depan/NN PAN/NNP akan/MD melakukan/VBT deklarasi/NN dukungan/NN terhadap/IN pasangan/NN calon/NN Anies/NNP Baswedan-Sandiaga/NNP Uno./NNP ./.
+Insha/NN Allah,/NN minggu/NN depan/NN PAN/NNP akan/MD melakukan/VBT deklarasi/NN dukungan/NN terhadap/IN pasangan/NN calon/NN Anies/NN Baswedan-Sandiaga/NN Uno./NNP htt???/NN ./.
+Insha/NN Allah,/NN minggu/NN depan/NN PAN/NNP akan/MD melakukan/VBT deklarasi/NN dukungan/NN terhadap/IN pasangan/NN calon/NN Anies/NN Baswedan-Sandiaga/NN Uno./NNP htt???/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Sandiaga/NN Uno/NNP menghadiri/VBT deklarasi/NN dukungan/NN dari/IN komunitas/NN ikatan/NN pengacara/NN dan/CC jawara/NN silat/NN Betawi/NN #MNCNewsChannelNo1/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Mangkir/NNP Dari/IN Panggilan/NN Polisi,/NN Bukti/NN Sandiaga/NNP Uno/NNP Miliki/VBI Karakter/NN Kepemimpinan/NN Yang/SC Buruk/JJ via/NN ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Dijerat/NN Kasus/NN Hukum,/NN Ini/DT Pesan/NN Sang/RP Ibu/NNP untuk/IN Sandiaga/NN Uno/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Dijerat/NN Kasus/NN Hukum,/NN Ini/DT Pesan/NN Sang/RP Ibu/NNP untuk/IN Sandiaga/NN Uno/NNP ./.
+MAJU/VBI KOTANYA/NN BAHAGIA/NN WARGANYA../. JANGAN/NEG LUPA/NN TANGGAL/NNP 19/CDP APRIL/NNP 2017/CDP COBLOS/NN NOMOR/NN 3/CDP (ANIES/NNP RASYID/NN BASWEDAN/NN &amp;/; SANDIAGA/NN SALAHUDDIN/NN UNO)/NN ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Alhamdulillah../NNP yang/SC sibuk/JJ ketemu/VBT pengusaha/NN kayanya/VBT Uno/NNP deh../. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Amin!/NN Banjir/NN Dukungan,/NN Sandiaga/NN Uno:/NN Lima/CDP Minggu/NN Lagi/RB Kita/PRP Punya/VBT Pemimpin/NN Baru/JJ ./.
+Dijerat/NN Kasus/NN Hukum,/NN Ini/DT Pesan/NN Sang/RP Ibu/NNP untuk/IN Sandiaga/NN Uno/NNP #BeritaSumatera/JJ ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Alhdulillah/NNP wa/NN syukurillah,/, yess/NN No.3/CDP bismillah/DT menang?/. Anies/NN Baswedan/NN &amp;/; Sandiaga/NN Uno:/NN Marissa/NNP Haque/NNP Ikang/NNP Fawzi/NNP ./.
+Retweeted/NNP Sandiaga/NNP S./NNP Uno/NNP (@sandiuno):/: Terima/NNP kasih,/, Yesa/NNP Asadela/NNP untuk/IN lagunya./NNP Bagus/NNP banget!/. #SalamBersama.../. ./.
+Retweeted/NNP Sandiaga/NNP S./NNP Uno/NNP (@sandiuno):/: Terima/NNP kasih,/, Yesa/NNP Asadela/NNP untuk/IN lagunya./NNP Bagus/NNP banget!/. #SalamBersama.../. ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Banjir/NN Dukungan,/NN Sandiaga/NN Uno:/NN Lima/CDP Minggu/NN Lagi/RB Kita/PRP Punya/VBT Pemimpin/NN Baru/JJ ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah.???/NN ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+Sandiaga/NN Uno/NNP Kampanye/NN di/IN Kemayoran,/NN Ibunya/NNP Turun/VBI Tangan/NN ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+Sore/NN ini/DT calon/NN gubernur/NN dan/CC wakil/NN gubernur/NN DKI/NNP Jakarta,/NNP Anies/NNP Rasyid/NNP Baswedan/NNP dan/CC Sandiaga/NNP Salahuddin/NNP Uno/NNP mengunjun???/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+SANDIAGA/NN UNO/NN ADALAH/VBT ANAGRAM/NN DARI/IN NO/NN SAD/NN IGUANA/NN SEBARKAN/NN ./.
+Insha/NN Allah,/NN minggu/NN depan/NN PAN/NNP akan/MD melakukan/VBT deklarasi/NN dukungan/NN terhadap/IN pasangan/NN calon/NN Anies/NN Baswedan-Sandiaga/NN Uno./NNP htt???/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+Perusahaan/NN Air/FW Sandi,/NNP LBH/NNP Jakarta:/NNP Pemprov/NNP DKI/NNP Rugi/NNP 18.2/CDP Triliun/CDP #AniesAntiPancasila/SC https???/NN ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+Akhi/NNP Sandiaga/NNP Uno/NNP duduk/VBI di/IN majelis/NN Ustadz/NN Dr./NNP Khalid/NNP Basalamah,/NNP M.A/NN dirumah/NN Primus/NNP ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+Sandiaga/NN Uno,/NN Teuku/NN Wisnu,/NN Dimas/NN Seto,/NN dll/NN sedang/RB mengaji/NN bersama/IN Khalid/NNP Basalamah./NNP Setelah/SC itu/DT membahas/VBT Khilafah./NNP #Anies???/NN ./.
+Sandiaga/NN Uno/NNP dilaporin/NN ke/IN polisi/NN lagi?/. ./.
+Amin!/NN Banjir/NN Dukungan,/NN Sandiaga/NN Uno:/NN Lima/CDP Minggu/NN Lagi/RB Kita/PRP Punya/VBT Pemimpin/NN Baru/JJ ./.
+Insha/NN Allah,/NN minggu/NN depan/NN PAN/NNP akan/MD melakukan/VBT deklarasi/NN dukungan/NN terhadap/IN pasangan/NN calon/NN Anies/NN Baswedan-Sandiaga/NN Uno./NNP htt???/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
+???/NN Juru/NN bicara/NN Agus/NNP Harimurti/NNP Yudhoyono-Sylviana/NNP Murni,/NNP Rachland/NNP Nashidik,/NN menganggap??????/NN ./.
+#News/NN ???/NN Juru/NN bicara/NN Agus/NNP Harimurti/NNP Yudhoyono-Sylviana/NNP Murni,/NNP Rachland/NNP Nashidik,/NN menganggap??????/NN ./.
+???/NN Juru/NN bicara/NN Agus/NNP Harimurti/NNP Yudhoyono-Sylviana/NNP Murni,/NNP Rachland/NNP Nashidik,/NN menganggap??????/NN ./.
+Gerasi/NN Agus-Sylvi/NN Alihkan/NN Dukungan/NN kepada/IN Ahok-Djarot/NN #PilkadaDki2017/NN ./.
+Gerasi/NN Agus-Sylvi/NN Alihkan/NN Dukungan/NN kepada/IN Ahok-Djarot/NN #PilkadaDki2017/NN ./.
+Jika/SC Tolak/NN Kebijakan/NN Partai,/NNP Lulung/NNP Bisa/MD Kena/NN Sanksi/NN #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Ssttt,/NN SBY/NN Bebaskan/NN Kader/NN PD/NNP Pilih/NNP Ahok/NNP di/IN Putaran/NN Dua/CDP #PilkadaDki2017/NN ./.
+Subhanallah,/NNP kata/VBT Sandiaga/NN Uno,/NN Ahok/NN lagi/RB bertemu/VBT pengusaha/NN dan/CC tokoh/NN bisnis/NN ????/. ./.
